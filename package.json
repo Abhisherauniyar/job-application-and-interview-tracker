@@ -1,0 +1,13 @@
+{
+  "name": "apna-role",
+  "version": "1.0.0",
+  "description": "Apna Role - Full-Stack Career Platform for Students & Freshers",
+  "scripts": {
+    "server": "npm --prefix server start",
+    "client": "npm --prefix client run dev",
+    "start": "node start-all.js",
+    "build": "npm --prefix client run build"
+  },
+  "author": "Apna Role Team",
+  "license": "ISC"
+}
